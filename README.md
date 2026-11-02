@@ -6,6 +6,12 @@ Traditional digital graphics flatten text, branding, and layouts directly into f
 
 OIM solves this by separating base visual assets from dynamic vector and typographic content. An `.oim` file encapsulates both within a standard image container (such as PNG). Devices without OIM support display the raster image naturally, while OIM-compliant engines mount and animate reactive, accessible, and localized layers directly over the canvas.
 
+<p align="center">
+  <a href="https://oim.media" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/oim-media/.github/main/brand-assets/oim-hero-specimen.png" alt="Object Interactive Media - Light needs no translation" width="720" />
+  </a>
+</p>
+
 ---
 
 ## Architectural Principles
